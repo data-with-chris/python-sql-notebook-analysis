@@ -23,7 +23,7 @@ This project demonstrates how **Python**, the **Polars** DataFrame library and *
 ## Setup and Installation
 1. Clone the repo:
 ```
-git clone <your-repo-url>
+git clone https://github.com/data-with-chris/python-sql-notebook-analysis.git
 cd python-sql-notebook-analysis
 ```
 2. Create and activate a virtual environment
